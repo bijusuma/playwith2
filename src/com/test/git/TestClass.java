@@ -7,7 +7,7 @@ public class TestClass {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Creating feature1 branch to merge into dev");
+		System.out.println("feature -1-change-1");
 	}
 
 }
